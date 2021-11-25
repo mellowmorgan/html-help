@@ -2,7 +2,7 @@
 
 By: Morgan Waites
 
-A webpage to define HTML elements.
+A webpage to show different HTML elements.
 
 ## Technologies Used
 * HTML
@@ -10,7 +10,7 @@ A webpage to define HTML elements.
 
 ## Description
 
-Click on the webpage and the respective element will be described.
+Click on the webpage and the respective element will be shown.
  
 ## Setup/Installation Requirements
 * Clone this repository to your desktop
