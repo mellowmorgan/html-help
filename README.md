@@ -1,6 +1,6 @@
 # HTML Help
 
-By: Morgan Waites
+By: Morgan Waites and Ryan Ashby
 
 A webpage to show different HTML elements.
 
@@ -23,4 +23,4 @@ No known bugs
 ## License
 [MIT](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2021 Morgan Waites
+Copyright (c) 2021 Morgan Waites and Ryan Ashby
